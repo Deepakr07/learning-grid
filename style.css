@@ -1,0 +1,20 @@
+@import url('https://fonts.google.com/specimen/Barlow+Semi+Condensed');
+
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #E7F1F2;
+  }
+
+  .testimonials{
+    max-width: 1440px;
+    margin: 0 au;
+    padding: 2rem;
+  }
+  .card{
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+  }
